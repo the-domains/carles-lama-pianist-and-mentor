@@ -1,0 +1,28 @@
+name: 'Carles Lama Pianist&Mentor'
+favicon: null
+layout_spectrum: 0.06958933477289975
+typography_spectrum: 0.5629630864132196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.14761782810091972
+  lightness: 0.626751784235239
+  saturation: 0.15383418090641499
+  rhythmicContrast: 0.6164859991986305
+purpose: []
